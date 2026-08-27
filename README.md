@@ -4,9 +4,9 @@ Curso Programación de Videojuegos 2026 - 2
 ## Diego Giovanny Caicedo Ramírez
 ![Foto de Diego Caicedo](Diego/01Diego_Caicedo.jpg)
 
-* **Rol:** Programador Principal / Gameplay Programmer
+* **Rol:** Lead Programmer / Gameplay Programmer
 * **Ubicación:** Bogotá, Colombia
-* **Perfil:** Estudiante de Ingeniería Multimedia de la UNAD. Enfocado en la arquitectura del código del videojuego, desarrollo en Unity y diseño de los sistemas interactivos.
+* **Perfil:** Multimedia Engineering student at UNAD. Focused on video game code architecture, Unity development, and interactive systems design.
 ## Juan Camilo Molina Chacón
 ![Foto de Juan Molina](Juan/JuanMolina_FotoPerfil.jpg)
  
