@@ -1,7 +1,9 @@
 # ProgramacionVideojuegos2026
 Curso Programación de Videojuegos 2026 - 2
 
-##Juan Camilo Molina Chacón
+![Foto de Juan Molina](JuanMolina_FotoPerfil.jpg)
+
+Juan Camilo Molina Chacón
 
 * **Rol:** Technical designer
 * **Ubicación:**  Bogotá, Colombia
