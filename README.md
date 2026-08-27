@@ -2,7 +2,7 @@
 Curso Programación de Videojuegos 2026 - 2
 
 ## Diego Giovanny Caicedo Ramírez
-![Foto de Diego Caicedo](Diego/Diego_Caicedo.jpg)
+![Foto de Diego Caicedo](Diego/01 Diego_Caicedo.jpg)
 
 * **Rol:** Programador Principal / Gameplay Programmer
 * **Ubicación:** Bogotá, Colombia
